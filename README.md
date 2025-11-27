@@ -7,15 +7,15 @@ Built with React, Redux Toolkit, and Tailwind CSS, it's fast, responsive, and ea
 ## Screenshots
 
 ### Team Lead View
-![Team Lead Dashboard](https://github.com/akhlesh-ydv/Appversal-TeamDashboard/raw/main/screenshots/team-lead-view.png)
+![Team Lead Dashboard](./screenshots/1.png)
 *Monitor team availability, assign tasks, and track team member statuses at a glance*
 
 ### Analytics Dashboard
-![Analytics View](https://github.com/akhlesh-ydv/Appversal-TeamDashboard/raw/main/screenshots/analytics-view.png)
+![Analytics View](./screenshots/2.png)
 *Visualize team metrics with interactive charts showing employee info, interviews, and status distribution*
 
 ### Team Member View
-![Team Member Dashboard](https://github.com/akhlesh-ydv/Appversal-TeamDashboard/raw/main/screenshots/member-view.png)
+![Team Member Dashboard](./screenshots/3.png)
 *Update your status and manage assigned tasks with real-time progress tracking*
 
 ## What Does It Do?
