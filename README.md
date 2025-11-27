@@ -4,6 +4,20 @@ Hey there! Welcome to Team Pulse – a simple yet powerful dashboard designed to
 
 Built with React, Redux Toolkit, and Tailwind CSS, it's fast, responsive, and easy to use.
 
+## Screenshots
+
+### Team Lead View
+![Team Lead Dashboard](https://github.com/akhlesh-ydv/Appversal-TeamDashboard/raw/main/screenshots/team-lead-view.png)
+*Monitor team availability, assign tasks, and track team member statuses at a glance*
+
+### Analytics Dashboard
+![Analytics View](https://github.com/akhlesh-ydv/Appversal-TeamDashboard/raw/main/screenshots/analytics-view.png)
+*Visualize team metrics with interactive charts showing employee info, interviews, and status distribution*
+
+### Team Member View
+![Team Member Dashboard](https://github.com/akhlesh-ydv/Appversal-TeamDashboard/raw/main/screenshots/member-view.png)
+*Update your status and manage assigned tasks with real-time progress tracking*
+
 ## What Does It Do?
 
 Team Pulse gives you two different perspectives depending on your role:
